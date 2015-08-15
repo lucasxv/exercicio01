@@ -9,12 +9,22 @@ public class Exec01 {
        Scanner sc = new Scanner(System.in);
         String Nome;
         String Telefone;
+        String Email;
+        String Data;
         
         System.out.println("Digite o Nome");
         Nome = sc.nextLine();
         
+        System.out.println("Digite sua data de nascimento");
+        Data = sc.nextLine();
+        
         System.out.println("Digite o Telefone");
         Telefone = sc.nextLine();
+        
+        System.out.println("Digite seu E-mail");
+        Email = sc.nextLine();
+        
+        
     }
     
     
