@@ -25,6 +25,8 @@ public class Exec01 {
         Email = sc.nextLine();
         
         
+        System.out.println("Sua data é = " + Data);
+        System.out.println("Seu email é = " + Email);
     }
     
     
