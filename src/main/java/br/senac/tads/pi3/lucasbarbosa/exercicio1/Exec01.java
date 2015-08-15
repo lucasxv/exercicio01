@@ -24,8 +24,9 @@ public class Exec01 {
         System.out.println("Digite seu E-mail");
         Email = sc.nextLine();
         
-        
+        System.out.println("Seu nome = " + Nome);
         System.out.println("Sua data é = " + Data);
+        System.out.println("Seu Telefone é = " + Telefone);
         System.out.println("Seu email é = " + Email);
     }
     
