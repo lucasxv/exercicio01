@@ -1,5 +1,7 @@
 package br.senac.tads.pi3.lucasbarbosa.exercicio1;
 
+//LUCAS BARBOSA DA SILVA - TADS 3 PIII
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
